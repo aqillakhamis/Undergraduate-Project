@@ -13,10 +13,10 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |---------------|-------------------------------------------------|----------|
-| Chan Yi Sheng | Trolley Tracking Management System using Deep Learning Model | [:folder:]()|
-| Chew Ho San | Manhole Detection for Maintenance System using Deep Learning Model ||
-| Gabriel Gan Yi Shane | Road Crack Classification using Deep Learning Technique ||
-| Muhammad Shahirul Afiq Sukairi | Palm Oil Fruit Ripeness Detection using Image Segmentation ||
+| Chan Yi Sheng | Trolley Tracking Management System using Deep Learning Model | [:octocat]()|
+| Chew Ho San | Manhole Detection for Maintenance System using Deep Learning Model | [:octocat:]()|
+| Gabriel Gan Yi Shane | Road Crack Classification using Deep Learning Technique | [:octocat:]() |
+| Muhammad Shahirul Afiq Sukairi | Palm Oil Fruit Ripeness Detection using Image Segmentation | [:octocat:]()|
 
 
 
