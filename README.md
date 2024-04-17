@@ -6,12 +6,7 @@ This repo is used to centralized all my undergraduate students FYP project. Proj
 - 🤖 Machine Learning
 - 🧠 Artificial Intelligence
 
-This repo will be divided according to **Academic Year (Academic Year 202X-202X)** session and **Semester (Semester 1, Semester 2)**. 
-
-## 📑 Academic Year
-
-| **Semester 1** | FYP 1 | FYP 2 |
-| **Semester 2** | FYP 1 | FYP 2 |
+This repo will be divided according to **Academic Year (Academic Year 202X-202X)** session and **Semester (Semester 1, Semester 2)**
 
 
 
