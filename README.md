@@ -5,12 +5,12 @@ This repo is used to centralized all my undergraduate students FYP project. This
 ## 📑 Academic Year 
 
 1. Semester 1
-  * FYP 1
-  * FYP 2
+   * FYP 1
+   * FYP 2
     
 2. Semester 2
-  * FYP 1
-  * FYP 2
+   * FYP 1
+   * FYP 2
 
 
 
