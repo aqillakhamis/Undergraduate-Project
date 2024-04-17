@@ -13,7 +13,8 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |---------------|--------------------------------------------------------------|----------|
-| Chan Yi Sheng | TROLLEY TRACKING MANAGEMENT SYSTEM USING DEEP LEARNING MODEL |          |
+| Chan Yi Sheng | Trolley Tracking Management using Deep Learning Model |          |
+| Chew Ho San | Manhole Detection for Maintenance System using Deep Learning Model | |
 
 
 
