@@ -1,4 +1,4 @@
-# FYP 1 ACTION PLAN (Academic Year 2024-2025, Semester 1)
+# FYP 1 ACTION PLAN (Academic Year 2024-2025, Semester 2)
 
 ## Student Checklist
 
