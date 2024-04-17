@@ -14,7 +14,7 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
-|      |               |                     |
+| Rais Hamizan Faridan      |               | [:octocat:]()                    |
 |      |               |                     |
 |      |               |                     |
 
