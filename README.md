@@ -10,14 +10,8 @@ This repo will be divided according to **Academic Year (Academic Year 202X-202X)
 
 ## 📑 Academic Year
 
-### 1. Semester 1
-   * FYP 1
-   * FYP 2
-     
-### 2. Semester 2
-   * FYP 1
-   * FYP 2
-
+| **Semester 1** | FYP 1 | FYP 2 |
+| **Semester 2** | FYP 1 | FYP 2 |
 
 
 
