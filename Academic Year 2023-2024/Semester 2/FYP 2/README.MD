@@ -1,4 +1,4 @@
-# FYP 2 ACTION PLAN (Academic Year 2024-2025, Semester 1)
+# FYP 2 ACTION PLAN (Academic Year 2023-2024, Semester 2)
 
 ## Checklist
 
@@ -12,10 +12,9 @@ All students need to follow this checklist to ensure that they are on track with
 ## Active Students
 
 | Name | Project Title | GitHub Project Repo |
-|------|---------------|---------------------|
-|      |               |                     |
-|      |               |                     |
-|      |               |                     |
+|---------------|--------------------------------------------------------------|----------|
+| Chan Yi Sheng | TROLLEY TRACKING MANAGEMENT SYSTEM USING DEEP LEARNING MODEL |          |
+
 
 
 
