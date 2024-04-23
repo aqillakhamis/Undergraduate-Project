@@ -13,7 +13,7 @@ All students need to follow this checklist to ensure that they are on track with
 ## Active Students
 
 | Name | Project Title | GitHub Project Repo |
-|------|---------------|---------------------|
+|------|---------------|:---------------------:|
 | Rais Hamizan Faridan      | Component Detection for Product Assembly in Manufacturing using Deep Learning Model              | [:octocat:](https://github.com/aqillakhamis/Undergraduate-Project/tree/main/Academic%20Year%202023-2024/Semester%202/FYP%201/Rais%20Hamizan%20Faridan)                    |
 
 
