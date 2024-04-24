@@ -2,7 +2,7 @@
 
 ## Student Checklist
 
-- [ ] [FYP 1-0a Topic Proposal](https://docs.google.com/document/d/1vefJ0vwEF74DSQTE-DMZpXptfNmTL8Zp1gOh6bozLPE/edit)
+- [/] [FYP 1-0a Topic Proposal](https://docs.google.com/document/d/1vefJ0vwEF74DSQTE-DMZpXptfNmTL8Zp1gOh6bozLPE/edit)
 - [ ] [e-logbok link](https://drive.google.com/drive/u/0/folders/1HIJ8KLAXOljHgNOawAjOZHl_OUoAgfGc?ths=true)
 - [ ] FYP 1-1 Progress Evaluation (e-logbook 1)
 - [Week 1](https://docs.google.com/document/d/1XLURuILJ_BPfsAMvdM_tTQDFWnQis0_zwf3jbbIcGh4/edit)
