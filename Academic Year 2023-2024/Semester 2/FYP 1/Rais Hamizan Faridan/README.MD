@@ -19,4 +19,4 @@
 - [Week 10]()
 - [Week 11]()
 - [Week 12]()
-- [ ] Project Progress
+- [ ] [Project Progress](https://github.com/aqillakhamis/Undergraduate-Project/tree/main/Academic%20Year%202023-2024/Semester%202/FYP%201/Rais%20Hamizan%20Faridan/Progress%20Project)
