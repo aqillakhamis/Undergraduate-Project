@@ -20,5 +20,5 @@
 - [Week 11]()
 - [Week 12]()
 - [ ] [Project Progress](https://github.com/aqillakhamis/Undergraduate-Project/tree/main/Academic%20Year%202023-2024/Semester%202/FYP%201/Rais%20Hamizan%20Faridan/Progress%20Project)
-- [ ] Report(https://drive.google.com/drive/u/0/folders/1uxAC5By8q0dtDz8KYqUWaKzua9Y5lb9n)
-- [ ] Slide(https://drive.google.com/drive/u/0/folders/1ObSFy3uV3vUVL5KvKDiKa9PLfCmF5982)
+- [ ] [Report](https://drive.google.com/drive/u/0/folders/1uxAC5By8q0dtDz8KYqUWaKzua9Y5lb9n)
+- [ ] [Slide](https://drive.google.com/drive/u/0/folders/1ObSFy3uV3vUVL5KvKDiKa9PLfCmF5982)
