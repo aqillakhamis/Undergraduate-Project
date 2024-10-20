@@ -14,8 +14,8 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
-|      |               |                     |
-|      |               |                     |
+|   Ching Kai Xin   |               |                     |
+|   Ooi Zhi Yi   |               |                     |
 |      |               |                     |
 
 
