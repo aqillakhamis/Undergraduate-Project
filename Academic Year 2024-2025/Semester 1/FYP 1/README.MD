@@ -14,9 +14,8 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
-|   Ching Kai Xin   |               |                     |
-|   Ooi Zhi Yi   |               |                     |
-|      |               |                     |
+|   Ching Kai Xin   |               |[:octocat:(https://github.com/aqillakhamis/Undergraduate-Project/tree/main/Academic%20Year%202024-2025/Semester%201/FYP%201/Ching%20Kai%20Xin)                    |
+|   Ooi Zhi Yi   |               |[:octocat](https://github.com/aqillakhamis/Undergraduate-Project/tree/main/Academic%20Year%202024-2025/Semester%201/FYP%201/Ooi%20Zhi%20Yi)                     |
 
 
 
