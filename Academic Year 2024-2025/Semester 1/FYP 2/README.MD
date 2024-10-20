@@ -14,7 +14,7 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
-|  Rais Hamizan Faridan    |               |                     |
+|Rais Hamizan Faridan|Component Detection for Product Assembly in Manufacturing using Deep Learning Model|                     |
 |      |               |                     |
 |      |               |                     |
 
