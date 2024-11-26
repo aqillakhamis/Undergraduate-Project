@@ -13,7 +13,7 @@ All students need to follow this checklist to ensure that they are on track with
 ## Active Students
 
 | Name | Project Title | GitHub Project Repo |
-|------|---------------|---------------------|
+|------------|---------------|---------------------|
 |   Ching Kai Xin   |AI-Driven Detection of Road Potholes for Enhanced Infrastructure Safety|https://github.com/kaixin1112/Road-Pothole-Detection.git|
 |   Ooi Zhi Yi   |Development of Trash Detection and Monitoring Dashboard for Environmental Stewardship|https://github.com/ooiyi/Trash-Classification.git|
 
