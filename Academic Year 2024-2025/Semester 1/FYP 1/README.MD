@@ -15,7 +15,7 @@ All students need to follow this checklist to ensure that they are on track with
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
 |   Ching Kai Xin   |               |https://github.com/kaixin1112/Road-Pothole-Detection.git|
-|   Ooi Zhi Yi   |               |[:octocat:]()                     |
+|   Ooi Zhi Yi   |               |https://github.com/ooiyi/Trash-Classification.git|
 
 
 
