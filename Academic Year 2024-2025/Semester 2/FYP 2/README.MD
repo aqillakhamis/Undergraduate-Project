@@ -13,7 +13,7 @@ All students need to follow this checklist to ensure that they are on track with
 
 | Name | Project Title | GitHub Project Repo |
 |------|---------------|---------------------|
-|  Ooi Zhi Yi    |               |https://github.com/ooiyi/trash-classification-2.git                     |
+|  Ooi Zhi Yi    | Development of Trash Detection and Monitoring Dashboard for Environmental Stewardship              |https://github.com/ooiyi/trash-classification-2.git                     |
 |      |               |                     |
 |      |               |                     |
 
