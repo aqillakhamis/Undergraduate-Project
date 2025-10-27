@@ -15,10 +15,10 @@ All students need to follow this checklist to ensure that they are on track with
 
 |   Name   | Project Title | GitHub Project Repo |
 |---------------|---------------------|---------------------|
-|  Farah Harnisa Baharudin   |Title: |:octocat:|
-|  Naim Salman   |Title: |:octocat:|
-|  Navinneshsaan A/L Selvakumaran  |Title: |:octocat:|
-|  Yew Gladys Ken-Yin  |Title: |:octocat:|
+|  Farah Harnisa Baharudin   ||:octocat:|
+|  Naim Salman   | |:octocat:|
+|  Navinneshsaan A/L Selvakumaran  ||:octocat:|
+|  Yew Gladys Ken-Yin  | |:octocat:|
 
 
 
