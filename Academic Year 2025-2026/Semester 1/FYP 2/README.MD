@@ -4,7 +4,7 @@
 
 ## Student Checklist
 
-All students need to follow this checklist to ensure that they are on track with their FYP 1 project :star: 
+All students need to follow this checklist to ensure that they are on track with their FYP 2 project :star: 
 
 - [ ] FYP 1-0a Topic Proposal
 - [ ] FYP 1-1 Progress Evaluation (e-logbook 1)
