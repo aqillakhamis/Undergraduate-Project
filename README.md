@@ -1,6 +1,5 @@
 # 🧑‍🎓 Final Year Project (FYP) Undergraduate FKE UTM 
-
-This repo is used to centralize all the final year undergraduate students' FYP projects. Projects involved are related to: 
+This repository is used to centralize all final-year undergraduate students’ FYP projects. The projects are related to:
 
 - 💻 Computer Vision
 - 🤖 Machine Learning
