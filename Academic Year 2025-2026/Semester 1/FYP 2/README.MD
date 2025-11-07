@@ -16,7 +16,7 @@ All students need to follow this checklist to ensure that they are on track with
 
 |   Name   | Project Title | GitHub Project Repo |
 |---------------|---------------------|---------------------|
-|  Goh Song Jing   | AI-Powered Smart Parking System with License Plate Recognition using Deep Learning Model|:octocat:|
+|  Goh Song Jing   | AI-Powered Smart Parking System with License Plate Recognition using Deep Learning Model| https://github.com/songjing0130/FYP-ALPR.git |
 
 
 
